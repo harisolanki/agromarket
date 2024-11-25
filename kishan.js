@@ -970,6 +970,7 @@ function getData2(){
                 // Create a card container
                 let card = document.createElement("div");
                 card.setAttribute("class", "col-md-3 p-2");
+                
     
     
                 // Create the content area for the card
